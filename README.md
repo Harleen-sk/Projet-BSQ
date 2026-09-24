@@ -1,6 +1,6 @@
 # BSQ – Find the Biggest Square
 
-Projet réalisé dans le cadre du cursus **EPITECH** (module *Elementary Programming in C*), en 1ʳᵉ année.
+Projet réalisé dans le cadre du cursus **EPITECH** (module *Elementary Programming in C*).
 
 ## Description
 
@@ -51,7 +51,8 @@ Résultat :
 .....xxxxxxx...o............
 .....xxxxxxx................
 ......o...............o.....
-..o.......o.................```
+..o.......o.................
+```
 
 ## Algorithme
 
